@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/juanmzaragoza/redux-basis"
   },
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "/"
   },
   "homepage": "",
   "dependencies": {
